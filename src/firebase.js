@@ -2,10 +2,10 @@ import firebase from 'firebase';
 
 var firebaseApp = firebase.initializeApp({
   apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
-  authDomain: 'react-skate-shop.firebaseapp.com',
-  projectId: 'react-skate-shop',
-  storageBucket: 'react-skate-shop.appspot.com',
-  messagingSenderId: '902579828507',
+  authDomain: 
+  projectId: 
+  storageBucket: 
+  messagingSenderId: 
   appId: process.env.REACT_APP_FIREBASE_APIID,
 });
 
